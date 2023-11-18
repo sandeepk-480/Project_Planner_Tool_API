@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore database files
+*.db
+*.db.sqlite3
+
+# Ignore sensitive information
+.env
